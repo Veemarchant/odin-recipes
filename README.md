@@ -1,1 +1,2 @@
 # odin-recipes
+This project was intended to practice basic html structure such as adding an image to a webpage, anchor linking, how to add an ordered list and unordered list. I also practice italicizing to spruce it up a bit. 
